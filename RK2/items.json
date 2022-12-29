@@ -1,0 +1,32 @@
+{
+    "Kofta": {
+        "Price" : 70,
+        "Description" : "Odezhda s kapushonom.",
+        "Type": "Verhnaya odezhda"
+    },
+    "Rubashka": {
+        "Price" : 10,
+        "Description" : "Legkaya odezhda s korotkimi rukavami.",
+        "Type": "Verhnaya odezhda"
+    },
+    "Djinsi": {
+        "Price" : 10,
+        "Description" : "Shtani iz denima.",
+        "Type": "Shtani"
+    },
+    "Krossovki": {
+        "Price" : 10,
+        "Description" : "Dlya bega.",
+        "Type": "Dlya nog"
+    },
+    "Botinki": {
+        "Price" : 10,
+        "Description" : "Rezinovie.",
+        "Type": "Dlya nog"
+    },
+    "Shorti": {
+        "Price" : 10,
+        "Description" : "Korotki shtani dlya let.",
+        "Type": "Shtani"
+    }
+}

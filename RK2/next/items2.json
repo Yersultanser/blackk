@@ -1,0 +1,17 @@
+{
+    "Trusi": {
+        "Price" : 70,
+        "Description" : "Odezhda s kapushonom.",
+        "Type": "Nizhnaa odezhda"
+    },
+    "Ochki": {
+        "Price" : 10,
+        "Description" : "Legkaya odezhda s korotkimi rukavami.",
+        "Type": "Na golovu"
+    },
+    "Shapka": {
+        "Price" : 10,
+        "Description" : "Shtani iz denima.",
+        "Type": "Shtani"
+    }
+}

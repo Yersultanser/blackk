@@ -1,0 +1,38 @@
+body{
+    background-color:cornflowerblue;
+}
+header{
+    font-size: 50px;
+}
+#exit{
+    display: flex;
+    float:left;
+}
+#grocery{
+    display: flex;
+    flex-wrap: wrap;
+}
+.block{
+    background-color:azure;
+    margin:10px 50px;
+    width: 400px;
+    text-align: center;
+}
+.smallblock{
+    text-align: center;
+}
+#image{
+    width: 120px;
+}
+#next{
+    font-size:35px;
+    float:left;
+}
+@media screen and (max-width: 500px) {
+    #exit{
+        text-align: center;
+        float:none;
+        text-align: center;
+        vertical-align: middle;
+    }
+}
